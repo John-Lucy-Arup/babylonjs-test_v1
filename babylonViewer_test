@@ -1,0 +1,4 @@
+<html>
+<script src="https://cdn.babylonjs.com/viewer/babylon.viewer.js"></script>
+<babylon model = "cube_scene.glb"></babylon>
+</html>
